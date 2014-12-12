@@ -6,10 +6,10 @@ This is an add-on plugin to the [Metro Share](https://github.com/kasparsd/metro-
 ![social icon](wp-assets/screenshot-1.jpg)
 
 ## Prerequisite
-The [Metro Share](https://github.com/kasparsd/metro-share) plugin
+The [Metro Share](https://github.com/kasparsd/metro-share) plugin.
 
 ## Changelog
-* 0.1 Initila release
+* 0.1 Initial release
 
 ## Credits
 * [Simple Awesome Icon Hover Effects](http://www.creativeverse.com/simple-icon-hover-effects/)
