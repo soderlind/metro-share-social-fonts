@@ -8,6 +8,9 @@ This is an add-on plugin to the [Metro Share](https://github.com/kasparsd/metro-
 ## Prerequisite
 The [Metro Share](https://github.com/kasparsd/metro-share) plugin.
 
+## Demo
+I'm using Metro Share Social Fonts on [my site](http://soderlind.no), see the end of one of the entries, eg [TablePress Extension: Chartist](http://soderlind.no/tablepress-extension-chartist/)
+
 ## Changelog
 * 0.1 Initial release
 
