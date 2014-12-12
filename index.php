@@ -2,7 +2,7 @@
 /*
 Plugin Name: Metro Share Social Fonts
 Plugin URI: http://soderlind.no/
-Description: Replace the default Metro Share social icons with icomoon fonts
+Description: Replace the default Metro Share social icons with icomoon social fonts
 Version: 0.1
 Author: Per Soderlind
 Author URI: http://soderlind.no/
