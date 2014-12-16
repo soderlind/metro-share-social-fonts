@@ -8,8 +8,8 @@ This is a lightweight add-on plugin to the [Metro Share](https://github.com/kasp
 ![social icon](wp-assets/screenshot-1.jpg)
 
 ##Lightweight
-* CSS  **2849B**
-* Fonts **9405B** (icomoon.min.eot 1927B, icomoon.min.svg 2606B, icomoon.min.ttf 1880B and icomoon.woff 2992B)
+* CSS  2849 Bytes
+* Fonts 9405 Bytes (icomoon.min.eot 1927B, icomoon.min.svg 2606B, icomoon.min.ttf 1880B and icomoon.woff 2992B)
 
 ## Prerequisite
 The [Metro Share](https://github.com/kasparsd/metro-share) plugin.
