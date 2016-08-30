@@ -7,7 +7,7 @@ Metro Share Social Fonts
 
 This is a lightweight add-on plugin to the [Metro Share](https://github.com/kasparsd/metro-share) plugin. It will replace the default Metro Share social icons with icomoon social fonts
 
-![social icon](wp-assets/screenshot-1.jpg)
+![social icon](assets/screenshot-1.jpg)
 
 ##Lightweight
 * CSS  2849 Bytes
