@@ -1,0 +1,7 @@
+{
+	"rules": {
+		"indentation": "tab",
+		"declaration-block-no-duplicate-properties": false,
+		"number-leading-zero": 0
+	}
+}

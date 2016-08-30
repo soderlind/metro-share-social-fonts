@@ -1,0 +1,23 @@
+---
+engines:
+  duplication:
+    enabled: true
+    config:
+      languages:
+        - php
+        - css
+  csslint:
+    enabled: true
+  fixme:
+    enabled: true
+  phpcodesniffer:
+    enabled: true
+    config:
+      standard: "WordPress-Core"
+ratings:
+  paths:
+    - "**.css"
+    - "**.php"
+exclude_paths:
+  - node_modules/**/*
+  - assets/**
