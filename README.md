@@ -5,19 +5,19 @@ Metro Share Social Fonts
 
 
 
-This is a lightweight add-on plugin to the [Metro Share](https://github.com/kasparsd/metro-share) plugin. It will replace the default Metro Share social icons with icomoon social fonts
+This is a lightweight add-on plugin to the [Metro Share](https://wordpress.org/plugins/metro-share/) plugin. It will replace the default Metro Share social icons with icomoon social fonts
 
-![social icon](assets/screenshot-1.jpg)
+![social icon](assets/screenshot-1.gif)
 
 ##Lightweight
-* CSS  2849 Bytes
+* CSS  2838 Bytes
 * Fonts 9405 Bytes (icomoon.min.eot 1927B, icomoon.min.svg 2606B, icomoon.min.ttf 1880B and icomoon.woff 2992B)
 
 ## Prerequisite
-The [Metro Share](https://github.com/kasparsd/metro-share) plugin.
+The [Metro Share](https://wordpress.org/plugins/metro-share/) plugin.
 
 ## Demo
-I'm using Metro Share Social Fonts on [my site](http://soderlind.no), see the Metro Share Social Fonts at the end of the entries, eg [TablePress Extension: Chartist](http://soderlind.no/tablepress-extension-chartist/)
+I'm using Metro Share Social Fonts on [my site](http://soderlind.no), see the Metro Share Social Fonts at the end of the entries, eg https://soderlind.no/wordpress-plugins-ready-4-6/
 
 ## Changelog
 * 0.2 Updated CSS
