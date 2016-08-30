@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/soderlind/metro-share-social-fonts.svg?branch=master)](https://travis-ci.org/soderlind/metro-share-social-fonts) [![Code Climate](https://codeclimate.com/github/soderlind/metro-share-social-fonts/badges/gpa.svg)](https://codeclimate.com/github/soderlind/metro-share-social-fonts)
+
 Metro Share Social Fonts
 ========================
 
