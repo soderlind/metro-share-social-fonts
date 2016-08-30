@@ -18,6 +18,7 @@ The [Metro Share](https://github.com/kasparsd/metro-share) plugin.
 I'm using Metro Share Social Fonts on [my site](http://soderlind.no), see the Metro Share Social Fonts at the end of the entries, eg [TablePress Extension: Chartist](http://soderlind.no/tablepress-extension-chartist/)
 
 ## Changelog
+* 0.2 Updated CSS
 * 0.1 Initial release
 
 ## Credits
