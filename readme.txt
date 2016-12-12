@@ -1,18 +1,20 @@
 === Metro Share Social Fonts ===
 Contributors: PerS
 Donate link: https://soderlind.no/donate/
-Tags:  icons, share, sharing
+Tags:  icons, share, sharing, sosial, facebook, twitter, linkedin, email, googlepluss
 Requires at least: 3.6
-Tested up to: 4.6
-Stable tag: 4.3
+Tested up to: 4.7
+Stable tag: 0.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This is a lightweight add-on plugin to the [Metro Share](https://github.com/kasparsd/metro-share) plugin.
+Super lightweight social sharing.
 
 == Description ==
 
-Lightweight add-on plugin to the [Metro Share](https://wordpress.org/plugins/metro-share/) plugin.
+<img src="https://ps.w.org/metro-share-social-fonts/assets/screenshot-1.gif?rev=1487786" />
+
+This is a super lightweight add-on plugin to the Metro Share social sharing plugin.
 
 = Lightweight =
 * CSS  2838 Bytes
@@ -23,6 +25,10 @@ The [Metro Share](https://wordpress.org/plugins/metro-share/) plugin.
 
 = Demo =
 I'm using Metro Share Social Fonts on [my site](http://soderlind.no), see the Metro Share Social Fonts at the end of the entries, eg https://soderlind.no/wordpress-plugins-ready-4-6/
+
+= GitHub =
+
+The plugin is also [available at GitHub](https://github.com/soderlind/metro-share-social-fonts)
 
 = Credits =
 * [Simple Awesome Icon Hover Effects](http://www.creativeverse.com/simple-icon-hover-effects/)

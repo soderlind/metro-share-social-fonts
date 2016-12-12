@@ -1,8 +1,8 @@
 {
   "name": "metro-share-social-fonts",
   "title": "Metro Share Social Fonts",
-  "version": "0.2.0",
-  "git_tag": "0.2.0",
+  "version": "0.2.1",
+  "git_tag": "0.2.1",
   "description": "Replace the default Metro Share social icons with icomoon social fonts.",
   "main": "metro-share-social-fonts.php",
   "scripts": {
